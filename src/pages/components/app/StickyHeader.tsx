@@ -27,7 +27,7 @@ const StickyHeader: React.FC = () => {
 						'Engineering graduate with a PG Diploma in Advanced Computing, blending technical and business expertise with hands-on project experience.'
 					}
 				</p>
-				<a href='Resume.pdf' target='_blank' className={styles.resume}>
+				<a href='Resume_updated.pdf' target='_blank' className={styles.resume}>
 					View Resume <ArrowRightOutlined className={styles.smallSvg} />
 				</a>
 				<Navigation />
