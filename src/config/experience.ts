@@ -21,6 +21,22 @@ const experience: IExperience = {
 	id: 'experience',
 	content: [
 		{
+			title: 'C++ Software Developer',
+			company: { name: 'CTGT Innovations', website: 'https://www.ctgti.com/' },
+			description: 'CTGT Innovations is a Pune‑based digital‑transformation consultancy and implementation expert in PLM, MES, ERP, and ODC services, serving clients globally with over 20 years of domain technology. first PLM implementations to deliver scalable product, process, and architecture solutions.',
+			tags: [
+				'C++ Development',
+				'PLM Development',
+				'Teamcenter',
+				'BMIDE Customizations',
+				'ITK Customization',
+				'Workflow Development',
+				'Jenkins Automation'
+			],
+			start: 'October 2024',
+			end: 'Current',
+		},
+		{
 			title: 'Entrepreneur-In-Residence',
 			company: { name: 'Good Health Company', website: 'https://ghc.health/' },
 			description:

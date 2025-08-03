@@ -8,13 +8,12 @@ interface IAbout {
 	id: string;
 	content: string | JSX.Element;
 }
-
 const about = {
 	id: 'about',
 	content: [
-		" Welcome! I'm thrilled to have you here. Allow me to introduce myself — I'm a passionate Developer with excellent academic credentials and professional experience in leadership, technology, and management.",
-		"At present, I'm transitioning from an entrepreneurial strategy role to software development. Previously, I am proficient in Java, Spring Boot, C++, and React, I have hands-on experience in both backend and frontend development. I served as an Entrepreneur in Residence, where I sharpened my problem-solving, communication, and content management skills, preparing me to tackle diverse challenges in the tech world.",
-		'I pride myself on being concise and clear in my communication, enabling me to collaborate with diverse teams effectively.',
+		"Welcome! I'm thrilled to have you here. I'm a passionate developer with hands-on experience in live projects and professional expertise in leadership, technology, and management.",
+		"Currently, I work as a Software & PLM Developer at CTGT Innovations, contributing to live projects using technologies like C++, Python, and Jenkins. My technical expertise also includes Java, Spring Boot, and React, with hands-on experience in both backend and frontend development. Previously, as an Entrepreneur in Residence, I honed my problem-solving, communication, and content management skills, preparing me to tackle diverse challenges in the tech world.",
+		"I take pride in being concise and clear in my communication, enabling me to collaborate effectively with diverse teams.",
 	],
 };
 
